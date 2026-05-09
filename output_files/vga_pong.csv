@@ -1,0 +1,73 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\Users\Gold\Documents\VLSI_trainning\Fpga\miniproject\output_files\vga_pong.csv
+# Generated on: Wed Apr 29 14:25:00 2026
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair
+CLOCK_50,Input,PIN_N2,2,B2_N1,PIN_N2,,,,
+KEY[3],Input,PIN_W26,6,B6_N1,PIN_W26,,,,
+KEY[2],Input,PIN_P23,6,B6_N0,PIN_P23,,,,
+KEY[1],Input,PIN_N23,5,B5_N1,PIN_N23,,,,
+KEY[0],Input,PIN_G26,5,B5_N0,PIN_G26,,,,
+SW[17],Input,PIN_V2,1,B1_N0,PIN_V2,,,,
+SW[16],Input,PIN_V1,1,B1_N0,PIN_V1,,,,
+SW[15],Input,PIN_U4,1,B1_N0,PIN_U4,,,,
+SW[14],Input,PIN_U3,1,B1_N0,PIN_U3,,,,
+SW[13],Input,PIN_T7,1,B1_N0,PIN_T7,,,,
+SW[12],Input,PIN_P2,1,B1_N0,PIN_P2,,,,
+SW[11],Input,PIN_P1,1,B1_N0,PIN_P1,,,,
+SW[10],Input,PIN_N1,2,B2_N1,PIN_N1,,,,
+SW[9],Input,PIN_A13,4,B4_N1,PIN_A13,,,,
+SW[8],Input,PIN_B13,4,B4_N1,PIN_B13,,,,
+SW[7],Input,PIN_C13,3,B3_N0,PIN_C13,,,,
+SW[6],Input,PIN_AC13,8,B8_N0,PIN_AC13,,,,
+SW[5],Input,PIN_AD13,8,B8_N0,PIN_AD13,,,,
+SW[4],Input,PIN_AF14,7,B7_N1,PIN_AF14,,,,
+SW[3],Input,PIN_AE14,7,B7_N1,PIN_AE14,,,,
+SW[2],Input,PIN_P25,6,B6_N0,PIN_P25,,,,
+SW[1],Input,PIN_N26,5,B5_N1,PIN_N26,,,,
+SW[0],Input,PIN_N25,5,B5_N1,PIN_N25,,,,
+VGA_B[7],Output,PIN_B11,3,B3_N0,PIN_B11,,,,
+VGA_B[6],Output,PIN_C11,3,B3_N0,PIN_C11,,,,
+VGA_B[5],Output,PIN_J11,3,B3_N0,PIN_J11,,,,
+VGA_B[4],Output,PIN_J10,3,B3_N0,PIN_J10,,,,
+VGA_B[3],Output,PIN_G12,3,B3_N0,PIN_G12,,,,
+VGA_B[2],Output,PIN_F12,3,B3_N0,PIN_F12,,,,
+VGA_B[1],Output,PIN_J14,3,B3_N0,PIN_J14,,,,
+VGA_B[0],Output,PIN_J13,3,B3_N0,PIN_J13,,,,
+VGA_BLANK_N,Output,PIN_D6,3,B3_N1,PIN_D6,,,,
+VGA_CLK,Output,PIN_B8,3,B3_N0,PIN_B8,,,,
+VGA_G[7],Output,PIN_D11,3,B3_N0,PIN_D11,,,,
+VGA_G[6],Output,PIN_G11,3,B3_N0,PIN_G11,,,,
+VGA_G[5],Output,PIN_A10,3,B3_N0,PIN_A10,,,,
+VGA_G[4],Output,PIN_B10,3,B3_N0,PIN_B10,,,,
+VGA_G[3],Output,PIN_D10,3,B3_N0,PIN_D10,,,,
+VGA_G[2],Output,PIN_C10,3,B3_N0,PIN_C10,,,,
+VGA_G[1],Output,PIN_A9,3,B3_N0,PIN_A9,,,,
+VGA_G[0],Output,PIN_B9,3,B3_N0,PIN_B9,,,,
+VGA_HS,Output,PIN_A7,3,B3_N1,PIN_A7,,,,
+VGA_R[7],Output,PIN_H12,3,B3_N0,PIN_H12,,,,
+VGA_R[6],Output,PIN_H11,3,B3_N0,PIN_H11,,,,
+VGA_R[5],Output,PIN_A8,3,B3_N0,PIN_A8,,,,
+VGA_R[4],Output,PIN_C9,3,B3_N1,PIN_C9,,,,
+VGA_R[3],Output,PIN_D9,3,B3_N1,PIN_D9,,,,
+VGA_R[2],Output,PIN_G10,3,B3_N1,PIN_G10,,,,
+VGA_R[1],Output,PIN_F10,3,B3_N1,PIN_F10,,,,
+VGA_R[0],Output,PIN_C8,3,B3_N1,PIN_C8,,,,
+VGA_SYNC_N,Output,PIN_B7,3,B3_N1,PIN_B7,,,,
+VGA_VS,Output,PIN_D8,3,B3_N1,PIN_D8,,,,
