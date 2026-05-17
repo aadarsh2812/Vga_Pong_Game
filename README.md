@@ -268,5 +268,5 @@ A priority-encoded combinatorial block assigns 24-bit RGB colours:
 ---
 
 *Created: April 29, 2026 | Target: Altera DE2 (Cyclone II EP2C35F672C6N) | Tool: Quartus II 13.0 SP1*
-“This README was generated with AI assistance. If you find any mistakes or conflicts, please let me know — I’ll review and resolve them.”
+“This Project was generated with AI assistance. If you find any mistakes or conflicts, please let me know — I’ll review and resolve them.”
 
